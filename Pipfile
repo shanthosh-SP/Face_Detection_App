@@ -10,6 +10,9 @@ streamlit = "0.69.0"
 face-recognition="*"
 opencv-python="*"
 numpy="*"
+dlib="19.17.0"
+cmake="*"
+
 
 
 [requires]
